@@ -1,0 +1,71 @@
+body {
+    background-color: #DCDCDC;
+    margin-top: -10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rebeccapurple;
+    width: 700px;
+    padding: 1px;
+    font-size: 16px;
+    
+}
+
+
+td {
+    border-bottom: 1px solid rebeccapurple;
+    
+}
+
+
+
+h1,h2 {
+    text-align: center;
+}
+
+ h1,h2, table{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#w-1 {
+    width: 500px;
+}
+
+.footer-row {
+    border-bottom: none;
+}
+
+.table-head-1 {
+    background-color:#dda0dd;
+}
+
+h2 {
+    color: #663399;
+}
+
+.first-column {
+    font-family: 'Monoscope';      
+}
+
+.last-column {
+    font-family: 'Monoscope'; 
+    border-bottom: none;     
+}
+
+span {
+    font-family: 'Monoscope'; 
+    
+}
+
+mark {
+    background-color: #f5f5dc;
+    font-family: 'Monoscope';
+}
+
+.code{
+    font-size: 16px;
+    font-family: 'Monoscope';
+}
+
